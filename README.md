@@ -1,5 +1,4 @@
 
-👋 Hello World! <br />
+![hello_world 🌎](githl_banner.png)
 
-✌️ I’m Marlon { @marmonto }. 
-By now, <a href="./about.html">you can see more in About me </a>.
+> By now, you can see more in [about me](./about.html").
