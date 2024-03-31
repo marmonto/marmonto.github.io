@@ -2,35 +2,5 @@
 
 👋 Hello World! <br />
 
-✌️  I’m Marlon { @marmonto }.
+✌️ I’m Marlon { @marmonto }. <a href="marmonto.github.io/about.md">More here About me.
 
-
-👨‍🚀 Something about me:
-
-<p>
-⌛ 
-</p>
-
-
-<p>
-🤯
-</p>
-
-<p>
-🔥
-</p>
-
-<p>
-🧠
-</p>
-
-<p>
-🕵️
-</p>
-
-<p>
-🌱 
-</p>
-
-
-🚀 Yeah! not much here ... just launching.
