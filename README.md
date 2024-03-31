@@ -1,6 +1,5 @@
-### marmonto.github.io
 
 👋 Hello World! <br />
 
-✌️ I’m Marlon { @marmonto }. <a href="marmonto.github.io/about.md">More here About me.
-
+✌️ I’m Marlon { @marmonto }. 
+By now, <a href="./about.md">you can see more in About me </a>.
